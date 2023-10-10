@@ -1,17 +1,511 @@
-[{"p":"Extra 30% off",
-"a":"/ng/shopping/men/our-legacy-striped-zip-up-sweatshirt-item-20015666.aspx"},
-{"p":"Extra 30% off",
-"a":"/ng/shopping/men/lemaire-large-croissant-shoulder-bag-item-21449609.aspx"},
-{"p":"Extra 30% off",
-"a":"/ng/shopping/men/palm-angels-retro-flare-tailored-trousers-item-20205659.aspx"},
-{"p":"Extra 30% off","a":"/ng/shopping/men/santoni-grifone-leather-loafers-item-20139946.aspx"},
-{"p":"From iconic washed denim to bomber jackets, Glenn Martens proves old school is here to stay. Meet the refreshed archive signatures",
-"a":"/ng/shopping/men/diesel/items.aspx"},
-{"p":"New Season",
-"a":"/ng/shopping/men/versace-barocco-jacquard-shoulder-bag-item-21516377.aspx"},
-{"p":"New Season","a":"/ng/shopping/men/marni-wide-leg-drawstring-jeans-item-20468410.aspx"},
-{"p":"New Season",
-"a":"/ng/shopping/men/jacquemus-les-chelsea-pavane-leather-boots-item-20924283.aspx"},
-{"p":"New Season","a":"/ng/shopping/men/marant-lako-denim-shirt-item-21500932.aspx"},
-{"p":"How to shop","a":"/ng/how-to-shop"},{"p":"FAQs","a":"/ng/faqs"},{"p":"Need help?",
-"a":"/ng/contact-us"}]
+[
+    {},
+    {},
+    {
+        "p": "The classicism, the elegance, the ease: the house proposes a capsule of everyday uniforms with influences drawn from the arts and the archives. Cue impeccable tailoring and executive polish",
+        "a": "#content",
+        "Image": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/338422/data/1c829abca1b20f11a3c7ccaef686f3cd/3x4_messaging-side/936/2023-10-04-mw-web-ferragamo-fw23-page-ds-ferragamo-multicategory-hero-3-img.jpeg"
+    },
+    {
+        "a": "/ng/shopping/women/items.aspx"
+    },
+    {},
+    {
+        "a": "/ng/shopping/women/items.aspx"
+    },
+    {},
+    {
+        "a": "/ng/shopping/women/items.aspx"
+    },
+    {
+        "a": "/ng/wishlist"
+    },
+    {
+        "a": null
+    },
+    {
+        "a": null
+    },
+    {
+        "a": null
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+        "p": "The classicism, the elegance, the ease: the house proposes a capsule of everyday uniforms with influences drawn from the arts and the archives. Cue impeccable tailoring and executive polish",
+        "a": "/ng/stories/men/ferragamo-edit-fw23?msc=ferragamo_m_oct23&mktref=display_editorial_m",
+        "Image": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/338422/data/1c829abca1b20f11a3c7ccaef686f3cd/3x4_messaging-side/936/2023-10-04-mw-web-ferragamo-fw23-page-ds-ferragamo-multicategory-hero-3-img.jpeg"
+    },
+    {
+        "p": "The classicism, the elegance, the ease: the house proposes a capsule of everyday uniforms with influences drawn from the arts and the archives. Cue impeccable tailoring and executive polish",
+        "a": "/ng/stories/men/ferragamo-edit-fw23?msc=ferragamo_m_oct23&mktref=display_editorial_m",
+        "Image": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/338422/data/1c829abca1b20f11a3c7ccaef686f3cd/3x4_messaging-side/936/2023-10-04-mw-web-ferragamo-fw23-page-ds-ferragamo-multicategory-hero-3-img.jpeg"
+    },
+    {
+        "Image": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/338422/data/1c829abca1b20f11a3c7ccaef686f3cd/3x4_messaging-side/936/2023-10-04-mw-web-ferragamo-fw23-page-ds-ferragamo-multicategory-hero-3-img.jpeg"
+    },
+    {
+        "p": "The classicism, the elegance, the ease: the house proposes a capsule of everyday uniforms with influences drawn from the arts and the archives. Cue impeccable tailoring and executive polish",
+        "a": "/ng/stories/men/ferragamo-edit-fw23?msc=ferragamo_m_oct23&mktref=display_editorial_m"
+    },
+    {
+        "p": "The classicism, the elegance, the ease: the house proposes a capsule of everyday uniforms with influences drawn from the arts and the archives. Cue impeccable tailoring and executive polish",
+        "a": "/ng/stories/men/ferragamo-edit-fw23?msc=ferragamo_m_oct23&mktref=display_editorial_m"
+    },
+    {
+        "a": "/ng/stories/men/ferragamo-edit-fw23?msc=ferragamo_m_oct23&mktref=display_editorial_m"
+    },
+    {
+        "a": "/ng/stories/men/ferragamo-edit-fw23?msc=ferragamo_m_oct23&mktref=display_editorial_m"
+    },
+    {
+        "p": "Reasons to love fall, from Burberry and more",
+        "a": "/ng/shopping/men/boots-2/items.aspx",
+        "Image": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/338442/data/6299c73695b0079387fa92d1217b84a5/1x1_two-columns/637/2023-10-04-mw-7-webapp-boots-trend-multibrand-boots-img.jpeg"
+    },
+    {
+        "p": "Reasons to love fall, from Burberry and more",
+        "a": "/ng/shopping/men/boots-2/items.aspx",
+        "Image": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/338442/data/6299c73695b0079387fa92d1217b84a5/1x1_two-columns/637/2023-10-04-mw-7-webapp-boots-trend-multibrand-boots-img.jpeg"
+    },
+    {
+        "p": "Reasons to love fall, from Burberry and more",
+        "a": "/ng/shopping/men/boots-2/items.aspx",
+        "Image": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/338442/data/6299c73695b0079387fa92d1217b84a5/1x1_two-columns/637/2023-10-04-mw-7-webapp-boots-trend-multibrand-boots-img.jpeg"
+    },
+    {
+        "Image": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/338442/data/6299c73695b0079387fa92d1217b84a5/1x1_two-columns/637/2023-10-04-mw-7-webapp-boots-trend-multibrand-boots-img.jpeg"
+    },
+    {
+        "Image": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/338442/data/6299c73695b0079387fa92d1217b84a5/1x1_two-columns/637/2023-10-04-mw-7-webapp-boots-trend-multibrand-boots-img.jpeg"
+    },
+    {
+        "Image": "https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/338442/data/6299c73695b0079387fa92d1217b84a5/1x1_two-columns/637/2023-10-04-mw-7-webapp-boots-trend-multibrand-boots-img.jpeg"
+    },
+    {
+        "p": "Reasons to love fall, from Burberry and more"
+    },
+    {
+        "p": "Reasons to love fall, from Burberry and more"
+    },
+    {},
+    {},
+    {},
+    {
+        "p": "New in: handpicked daily from the world’s best brands and boutiques",
+        "a": "/ng/shopping/men/dsquared2-check-pattern-hooded-shirt-jacket-item-21507949.aspx",
+        "Image": null
+    },
+    {
+        "p": "New in: handpicked daily from the world’s best brands and boutiques",
+        "a": "/ng/shopping/men/dsquared2-check-pattern-hooded-shirt-jacket-item-21507949.aspx",
+        "Image": null
+    },
+    {
+        "p": "New in: handpicked daily from the world’s best brands and boutiques"
+    },
+    {
+        "p": "New Season",
+        "a": "/ng/shopping/men/dsquared2-check-pattern-hooded-shirt-jacket-item-21507949.aspx",
+        "Image": null
+    },
+    {
+        "p": "New Season",
+        "a": "/ng/shopping/men/dsquared2-check-pattern-hooded-shirt-jacket-item-21507949.aspx",
+        "Image": null
+    },
+    {
+        "Image": null
+    },
+    {
+        "Image": null
+    },
+    {
+        "p": "New Season"
+    },
+    {
+        "p": "Dsquared2"
+    },
+    {
+        "p": "$1,291"
+    },
+    {
+        "p": "New Season",
+        "a": "/ng/shopping/men/gallery-dept-logo-print-cotton-belt-bag-item-21504719.aspx",
+        "Image": null
+    },
+    {
+        "Image": null
+    },
+    {
+        "Image": null
+    },
+    {
+        "p": "New Season"
+    },
+    {
+        "p": "GALLERY DEPT."
+    },
+    {
+        "p": "$424"
+    },
+    {
+        "p": "New Season",
+        "a": "/ng/shopping/men/undercover-patch-lettering-cotton-sweatshirt-item-21523221.aspx",
+        "Image": null
+    },
+    {
+        "Image": null
+    },
+    {
+        "Image": null
+    },
+    {
+        "p": "New Season"
+    },
+    {
+        "p": "Undercover"
+    },
+    {
+        "p": "$1,720"
+    },
+    {
+        "p": "New Season",
+        "a": "/ng/shopping/men/bode-graphic-print-cotton-t-shirt-item-21723214.aspx",
+        "Image": null
+    },
+    {
+        "Image": null
+    },
+    {
+        "Image": null
+    },
+    {
+        "p": "New Season"
+    },
+    {
+        "p": "BODE"
+    },
+    {
+        "p": "$249"
+    },
+    {
+        "a": "/ng/sets/new-in-this-week-eu-men.aspx"
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+        "p": "From Chopard and more",
+        "a": "/ng/sets/men/gifts-classic-watches.aspx",
+        "Image": null
+    },
+    {},
+    {
+        "p": "From Chopard and more",
+        "a": "/ng/sets/men/gifts-classic-watches.aspx",
+        "Image": null
+    },
+    {
+        "p": "From Chopard and more",
+        "a": "/ng/sets/men/gifts-classic-watches.aspx",
+        "Image": null
+    },
+    {
+        "p": "From Chopard and more",
+        "a": "/ng/sets/men/gifts-classic-watches.aspx",
+        "Image": null
+    },
+    {
+        "Image": null
+    },
+    {
+        "Image": null
+    },
+    {
+        "Image": null
+    },
+    {
+        "p": "From Chopard and more"
+    },
+    {
+        "p": "From Chopard and more"
+    },
+    {
+        "Image": null
+    },
+    {
+        "Image": null
+    },
+    {
+        "Image": null
+    },
+    {
+        "p": "It’s what’s inside that counts"
+    },
+    {
+        "p": "It’s what’s inside that counts"
+    },
+    {
+        "Image": null
+    },
+    {
+        "Image": null
+    },
+    {
+        "Image": null
+    },
+    {
+        "p": "The guaranteed crowd-pleasers"
+    },
+    {
+        "p": "The guaranteed crowd-pleasers"
+    },
+    {
+        "p": "Sweater weather",
+        "a": "/ng/shopping/men/marni-striped-crew-neck-jumper-item-20247686.aspx",
+        "Image": null
+    },
+    {
+        "p": "Sweater weather",
+        "a": "/ng/shopping/men/marni-striped-crew-neck-jumper-item-20247686.aspx",
+        "Image": null
+    },
+    {
+        "p": "Sweater weather"
+    },
+    {
+        "p": "New Season",
+        "a": "/ng/shopping/men/marni-striped-crew-neck-jumper-item-20247686.aspx",
+        "Image": null
+    },
+    {
+        "p": "New Season",
+        "a": "/ng/shopping/men/marni-striped-crew-neck-jumper-item-20247686.aspx",
+        "Image": null
+    },
+    {
+        "p": "New Season",
+        "a": "/ng/shopping/men/marni-striped-crew-neck-jumper-item-20247686.aspx",
+        "Image": null
+    },
+    {
+        "p": "New Season",
+        "a": "/ng/shopping/men/marni-striped-crew-neck-jumper-item-20247686.aspx",
+        "Image": null
+    },
+    {
+        "p": "New Season",
+        "a": "/ng/shopping/men/marni-striped-crew-neck-jumper-item-20247686.aspx",
+        "Image": null
+    },
+    {
+        "Image": null
+    },
+    {
+        "Image": null
+    },
+    {
+        "p": "New Season"
+    },
+    {
+        "p": "Marni"
+    },
+    {
+        "p": "$864"
+    },
+    {
+        "p": "New Season",
+        "a": "/ng/shopping/men/zegna-patterned-intarsia-knit-brushed-effect-jumper-item-20851046.aspx",
+        "Image": null
+    },
+    {
+        "p": "New Season",
+        "a": "/ng/shopping/men/zegna-patterned-intarsia-knit-brushed-effect-jumper-item-20851046.aspx",
+        "Image": null
+    },
+    {
+        "Image": null
+    },
+    {
+        "Image": null
+    },
+    {
+        "p": "New Season"
+    },
+    {
+        "p": "Zegna"
+    },
+    {
+        "p": "$1,854"
+    },
+    {
+        "p": "New Season",
+        "a": "/ng/shopping/men/casablanca-laurel-intarsia-knit-jacket-item-20047140.aspx",
+        "Image": null
+    },
+    {
+        "p": "New Season",
+        "a": "/ng/shopping/men/casablanca-laurel-intarsia-knit-jacket-item-20047140.aspx",
+        "Image": null
+    },
+    {
+        "Image": null
+    },
+    {
+        "Image": null
+    },
+    {
+        "p": "New Season"
+    },
+    {
+        "p": "Casablanca"
+    },
+    {
+        "p": "$933"
+    },
+    {
+        "p": "Saint Laurent",
+        "a": "/ng/shopping/men/saint-laurent-logo-print-sweatshirt-item-16633861.aspx",
+        "Image": null
+    },
+    {
+        "p": "Saint Laurent",
+        "a": "/ng/shopping/men/saint-laurent-logo-print-sweatshirt-item-16633861.aspx",
+        "Image": null
+    },
+    {
+        "Image": null
+    },
+    {
+        "Image": null
+    },
+    {
+        "p": "Saint Laurent"
+    },
+    {
+        "p": "Saint Laurent"
+    },
+    {
+        "p": "$920"
+    },
+    {},
+    {},
+    {
+        "a": "/ng/shopping/men/sweaters-knitwear-2/items.aspx"
+    },
+    {
+        "p": "How to shop",
+        "a": "/ng/how-to-shop"
+    },
+    {
+        "p": "How to shop",
+        "a": "/ng/how-to-shop"
+    },
+    {},
+    {
+        "p": "How to shop",
+        "a": "/ng/how-to-shop"
+    },
+    {},
+    {
+        "p": "FAQs",
+        "a": "/ng/faqs"
+    },
+    {},
+    {
+        "p": "Need help?",
+        "a": "/ng/contact-us"
+    },
+    {
+        "p": "Get 10% off your first order",
+        "a": "https://www.farfetch.com/privacy-policy"
+    },
+    {
+        "p": "Get 10% off your first order",
+        "a": "https://www.farfetch.com/privacy-policy"
+    },
+    {
+        "p": "Get 10% off your first order",
+        "a": "https://www.farfetch.com/privacy-policy"
+    },
+    {
+        "p": "Get 10% off your first order",
+        "a": "https://www.farfetch.com/privacy-policy"
+    },
+    {
+        "p": "Get 10% off your first order"
+    },
+    {
+        "p": "Get 10% off your first order"
+    },
+    {
+        "p": "Get updates by",
+        "a": "https://www.farfetch.com/privacy-policy"
+    },
+    {
+        "p": "Get updates by"
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+        "p": "Customer Service",
+        "a": "/ng/contact-us/"
+    },
+    {
+        "p": "Customer Service",
+        "a": "/ng/contact-us/"
+    },
+    {
+        "p": "Customer Service",
+        "a": "/ng/contact-us/"
+    },
+    {
+        "p": "Customer Service",
+        "a": "/ng/contact-us/"
+    },
+    {
+        "p": "About FARFETCH",
+        "a": "https://aboutfarfetch.com/"
+    },
+    {
+        "p": "About FARFETCH",
+        "a": "https://aboutfarfetch.com/"
+    },
+    {
+        "p": "Discounts and membership",
+        "a": "/ng/pag1987.aspx"
+    },
+    {
+        "p": "Discounts and membership",
+        "a": "/ng/pag1987.aspx"
+    },
+    {
+        "p": "'FARFETCH' and the 'FARFETCH' logo are trade marks of FARFETCH UK Limited and are registered in numerous jurisdictions around the world.",
+        "a": "/ng/privacy-policy/"
+    },
+    {
+        "p": "'FARFETCH' and the 'FARFETCH' logo are trade marks of FARFETCH UK Limited and are registered in numerous jurisdictions around the world."
+    },
+    {},
+    {},
+    {},
+    {},
+    {
+        "Image": "https://bat.bing.com/action/0?ti=4008469&tm=gtm002&Ver=2&mid=5fd75eaf-13dd-4067-98ea-b1d89efe954a&sid=b8a4c070638511ee8224c3687634dd2e&vid=b8a51ba0638511ee8b623fd70d90abf0&vids=1&msclkid=N&uach=pv%3D14.0.0&pi=918639831&lg=en-US&sw=1366&sh=768&sc=24&nwd=1&tl=FARFETCH%20-%20The%20Global%20Destination%20For%20Modern%20Luxury&p=https%3A%2F%2Fwww.farfetch.com%2Fng%2Fshopping%2Fmen%2Fitems.aspx&r=&lt=6806&evt=pageLoad&sv=1&rn=911023"
+    },
+    {}
+]

@@ -255,7 +255,7 @@ const farfetch = async () =>{
     }
 
     const data = await page.evaluate(()=>{
-      const data = Array.from(document.querySelectorAll(""));
+      const data = Array.from(document.querySelectorAll("div"));
 
       return data.map((props)=>({
         p: props.querySelector("p")?.textContent,
@@ -287,5 +287,5 @@ farfetch();
 
 app.listen(3000, () =>{
   console.log();
-  console.log("server connected .......🚀🧑‍🚀🚀🚀🚀🚀");
+  console.log("server connected .......6️⃣6️⃣6️⃣6️⃣6️⃣6️⃣6️⃣6️⃣6️⃣6️⃣");
 })
